@@ -22,6 +22,7 @@ const technologies = [
   { name: "CouchDB", released: new Date(2005, 2, 1) },
   { name: "Crystal", released: new Date(2014, 6, 18) },
   { name: "CSS", released: new Date(1996, 11, 17), icon: "css" },
+  { name: "D", released: new Date(2001, 12, 8) },
   { name: "Dart", released: new Date(2011, 10, 10) },
   { name: "Direct3D", released: new Date(1996, 5, 2) },
   { name: "Django", released: new Date(2005, 6, 15), icon: "django" },
